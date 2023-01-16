@@ -1,0 +1,284 @@
+/* screen - a0commonmain */
+
+.a0commonmain {
+  background-color: #ffffff;
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.a0commonmain .lnb-favorite-card {
+  background-color: transparent;
+  height: 799px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.a0commonmain .rectangle-lnb-favorite-card {
+  background-color: #f2f2f2;
+  height: 799px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.a0commonmain .web-index-contents1dpeth_open_selected {
+  height: 46px;
+  left: 0px;
+  top: 400px;
+  width: 320px;
+}
+
+.a0commonmain .web-index-contents1dpeth_close-1 {
+  top: 354px;
+}
+
+.a0commonmain .web-index-contents1dpeth_close-2 {
+  top: 308px;
+}
+
+.a0commonmain .web-index-contents1dpeth_close-3 {
+  top: 262px;
+}
+
+.a0commonmain .web-index-contents1dpeth_close-4 {
+  top: 216px;
+}
+
+.a0commonmain .web-index-title-common-1 {
+  top: 170px;
+}
+
+.a0commonmain .group {
+  top: 625px;
+}
+
+.a0commonmain .empty-1 {
+  top: 21px;
+}
+
+.a0commonmain .empty-2 {
+  top: 0px;
+}
+
+.a0commonmain .group-copy-2 {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: 712px;
+  width: 320px;
+}
+
+.a0commonmain .empty-3 {
+  top: 21px;
+}
+
+.a0commonmain .line-copy-group-copy-2 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.a0commonmain .empty-4 {
+  top: 0px;
+}
+
+.a0commonmain .line {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.a0commonmain .home-net-gui-guidelin {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.a0commonmain .web-index-title-common-2 {
+  top: 666px;
+}
+
+.a0commonmain .web-index-title-common-copy-2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: 753px;
+  width: 320px;
+}
+
+.a0commonmain .group-copy {
+  top: 446px;
+}
+
+.a0commonmain .empty-copy {
+  top: 21px;
+}
+
+.a0commonmain .empty-copy-2 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.a0commonmain .web-index-title-common-copy {
+  top: 487px;
+}
+
+.a0commonmain .web-index-contents1d {
+  height: 46px;
+  left: 0px;
+  top: 579px;
+  width: 320px;
+}
+
+.a0commonmain .web-index-contents1dpeth_close-copy {
+  top: 533px;
+}
+
+.a0commonmain .bodytest {
+  background-color: transparent;
+  height: 764px;
+  left: 417px;
+  position: absolute;
+  top: 112px;
+  width: 863px;
+}
+
+.a0commonmain .webgnb {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.a0commonmain .rectangle-webgnb {
+  background-color: #252525;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.a0commonmain .background {
+  background-color: #252525;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.a0commonmain .index {
+  background-color: transparent;
+  height: 28px;
+  left: 427px;
+  position: absolute;
+  top: 21px;
+  width: 117px;
+}
+
+.a0commonmain .web-index-select {
+  height: 22px;
+  left: 0px;
+  top: 0px;
+  width: 17px;
+}
+
+.a0commonmain .web-index-unselect {
+  height: 28px;
+  left: 85px;
+  top: 0px;
+  width: 32px;
+}
+
+.a0commonmain .web-index-unelect_main {
+  height: 24px;
+  left: 18px;
+  top: 20px;
+  width: 293px;
+}
+
+.a0commonmain .logo {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 293px;
+}
+
+.a0commonmain .empty {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  width: 320px;
+}
+
+.a0commonmain .group-1 {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  width: 320px;
+}
+
+.a0commonmain .line-copy {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.a0commonmain .web-index {
+  background-color: transparent;
+  cursor: pointer;
+  position: absolute;
+}
+
+.a0commonmain .web-index-contents1dpeth_close {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  width: 320px;
+}
+
+.a0commonmain .web-index-title-common {
+  background-color: transparent;
+  cursor: pointer;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  width: 320px;
+}
